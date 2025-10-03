@@ -1,0 +1,13 @@
+name = "Fetzi's Asian Decoration"
+filename = "fetzisasiandeco-fabric-1.7.2b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29c757f02acd1d0fdb0fded5e346b034d8bc7ff5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6625761
+project-id = 678856

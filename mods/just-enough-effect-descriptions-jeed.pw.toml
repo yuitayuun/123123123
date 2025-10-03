@@ -1,0 +1,13 @@
+name = "Just Enough Effect Descriptions (JEED)"
+filename = "jeed-1.20-2.2.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "803582b45ff734744305e1090a55ad544e19187b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6172933
+project-id = 532286

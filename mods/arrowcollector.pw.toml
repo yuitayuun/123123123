@@ -1,0 +1,13 @@
+name = "Arrow Collector"
+filename = "arrowcollector-fabric-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93784e69016d2d13b40916b1a8aff275ee3f73e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4789001
+project-id = 870889

@@ -1,0 +1,13 @@
+name = "Why stacks of 16?"
+filename = "wso16-fabric-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c78fe400ea1c552d81a6a6824a5ace5e99c3d50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4160272
+project-id = 664298

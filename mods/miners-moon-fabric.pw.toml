@@ -1,0 +1,13 @@
+name = "Miner's Moon [Fabric]"
+filename = "MinersMoon-fabric-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64a0a20074c17998442dcb52eae13794a07f8bd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813216
+project-id = 1121856

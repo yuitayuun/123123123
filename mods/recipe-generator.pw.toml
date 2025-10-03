@@ -1,0 +1,13 @@
+name = "Recipe Generator"
+filename = "recipe_generator-0.2.7_release-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1c6d747c7c9bb0c86649a2042cc7829c25691d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6279677
+project-id = 899032

@@ -1,0 +1,13 @@
+name = "Create Contraption Terminals"
+filename = "createcontraptionterminals-fabric-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5552793e45de911ef00542f6e8f6fc4263098524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6093712
+project-id = 1059879

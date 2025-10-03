@@ -1,0 +1,13 @@
+name = "FTB Filter System"
+filename = "ftb-filter-system-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00a1500ad8f42b9dbac176ef7505ef81a5c0c8b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4926069
+project-id = 943925

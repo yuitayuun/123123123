@@ -1,0 +1,13 @@
+name = "Pale Garden Backport: The Garden Awakens"
+filename = "palegardenbackport-fabric-2.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4ba1cf6b65699c7283dc80c6274ef6487e24ee9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6680607
+project-id = 1127764

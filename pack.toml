@@ -1,0 +1,12 @@
+name = "Homestead"
+version = "1.1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60b31c72a0b049eecc133657f44bfbfe35567efd35d0a73038e1438ae0808abf"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
